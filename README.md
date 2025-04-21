@@ -1,5 +1,7 @@
 # 🎬 OTT Platforms Merger Analysis PowerBI Project
 
+## Live dashboard: [View here](https://app.powerbi.com/view?r=eyJrIjoiNDhhNDk5YjctZTcwOC00ZmIyLWFhNzctNGIzYmEwMjRkNWVkIiwidCI6ImQ2YzUyN2IzLTdkNzAtNDc1OS1hOTNhLWU4NjUxYWUwMDIwZiJ9).
+
 ## 📌 Introduction
 
 Lio, a leading telecom provider in India is merging with Jotstar, a leading streaming platform.
@@ -21,7 +23,7 @@ To make the merger sucessful, Lio Management needs to look at the detailed analy
 - Downgrade Patterns
 - Content Consumption Behavior
 
-## Dashboard
+## Dashboard Preview
 
 ![OTT Analysis Presentation (1)](https://github.com/user-attachments/assets/c831a061-abe3-4f29-b894-81146915fd62)
 
@@ -31,14 +33,12 @@ To make the merger sucessful, Lio Management needs to look at the detailed analy
 ### Key Insights
 ![OTT Analysis Presentation (3)](https://github.com/user-attachments/assets/6debccf2-d220-47fb-a0e5-92c5d3b6e40c)
 
-Live dashboard: https://app.powerbi.com/view?r=eyJrIjoiNDhhNDk5YjctZTcwOC00ZmIyLWFhNzctNGIzYmEwMjRkNWVkIiwidCI6ImQ2YzUyN2IzLTdkNzAtNDc1OS1hOTNhLWU4NjUxYWUwMDIwZiJ9
-
 ## Tech Stack
 
 - Data Visualization: Power BI
 - Tools: SQL, Power BI Desktop, Power BI Service, Canva
 
-## Key Metrics Analyzed
+## 📊 Key Metrics Analyzed
 
 - Total Content Items
 - Total Users
